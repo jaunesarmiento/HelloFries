@@ -21,6 +21,6 @@ Head on over to Fries' [documentation] if you want to learn more about Fries.
 And maybe star and [fork a copy of it].
 
 
-[Fries]: http://jaunesarmiento.me/fries
+[Fries]: https://github.com/jaunesarmiento/fries
 [PhoneGap]: http://phonegap.com/
-[documentation]: https://github.com/jaunesarmiento/fries
+[documentation]: http://jaunesarmiento.me/fries
