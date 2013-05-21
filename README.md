@@ -5,6 +5,7 @@ for Android apps using just HTML, CSS, and Javascript and was inspired by [Ratch
 We all know that you can find loads of iOS development tools out there, 
 so this time let's give some love to Android.
 
+
 ### What's this?
 
 This Android project is a demo of how you can integrate Fries with [PhoneGap].
@@ -13,6 +14,18 @@ into the `/assets/www/` directory and run your application.
 
 __Note:__ Make sure the paths to the Fries components in your HTML files are correct
 to get it to work.
+
+
+### How to run this
+
+To run this project:
+
+1. Download a copy of the reposity and unzip
+2. Launch your Eclipse IDE
+3. Import the project into Eclipse by going to File > New > Other > Android > Android Project from Existing Code
+4. Choose the folder where you unzipped the demo
+5. Click 'Finish'
+6. Then just run the app
 
 
 ### Interested in this?
