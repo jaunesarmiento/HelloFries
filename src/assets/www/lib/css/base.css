@@ -96,15 +96,14 @@ html {
 
 body {
   position: fixed;
+  width: 100%;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
   font: 16px/1.6 "Roboto", sans-serif;
   color: #fff;
-  background-color: #000;
-  -webkit-transform: translateZ(0px);
-          transform: translateZ(0px);
+  background-color: #111;
 }
 
 /* Universal link styling */
